@@ -1,0 +1,128 @@
+{
+    "monster": [
+        {
+            "monster_id": "mons_1",
+            "monster_name": "Baitong",
+            "monster_type": "tank",
+            "monster_draft_position": 1,
+            "monster_lvl": 3,
+            "monster_stats": {
+                "hp": 25,
+                "atk": 1,
+                "def": 1,
+                "mp": 1,
+                "spd": 4
+            },
+            "monster_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "ขยะ",
+                    "atk": 4
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "ขี้",
+                    "def": 4
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "หิน",
+                    "spd": 4
+                }
+            ]
+        },
+        {
+            "monster_id": "mons_2",
+            "monster_name": "Baitong",
+            "monster_type": "tank",
+            "monster_draft_position": 2,
+            "monster_lvl": 3,
+            "monster_stats": {
+                "hp": 25,
+                "atk": 1,
+                "def": 1,
+                "mp": 1,
+                "spd": 4
+            },
+            "monster_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "ขยะ",
+                    "atk": 4
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "",
+                    "def": 4
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "",
+                    "spd": 4
+                }
+            ]
+        },
+        {
+            "monster_id": "mons_3",
+            "monster_name": "Baitong",
+            "monster_type": "tank",
+            "monster_draft_position": 3,
+            "monster_lvl": 3,
+            "monster_stats": {
+                "hp": 25,
+                "atk": 1,
+                "def": 1,
+                "mp": 1,
+                "spd": 4
+            },
+            "monster_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "ขยะ",
+                    "atk": 4
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "",
+                    "def": 4
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "",
+                    "spd": 4
+                }
+            ]
+        },
+        {
+            "monster_id": "mons_4",
+            "monster_name": "Baitong",
+            "monster_type": "tank",
+            "monster_draft_position": 4,
+            "monster_lvl": 3,
+            "monster_stats": {
+                "hp": 25,
+                "atk": 1,
+                "def": 1,
+                "mp": 1,
+                "spd": 4
+            },
+            "monster_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "ขยะ",
+                    "atk": 4
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "",
+                    "def": 4
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "",
+                    "spd": 4
+                }
+            ]
+        }
+    ]
+}
